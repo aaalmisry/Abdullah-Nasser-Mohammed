@@ -1,6 +1,6 @@
 # Welcome to My Professional Portfolio! 🎓
 
-Hello! I’m **Abdullah Nasser Mohammed**, a Data Engineer, programmer, and web/desktop app developer with a Master's in Big Data from ASU.  
+Hello! I’m **Abdullah Nasser Mohammed**, a Data Engineer, and web/desktop app developer with a Master's in Big Data from ASU.  
 I build scalable data solutions and intelligent applications that turn complex data into actionable insights.
 
 
