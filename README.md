@@ -6,10 +6,10 @@ I build scalable data solutions and intelligent applications that turn complex d
 
 ## 📌 Projects
 
-### 1. [Hotspot Analysis Using Spark and Scala code ](https://github.com/aaalmisry/CSE-511.git)
-Description: A big data project that performs spatial hotspot analysis on large-scale location datasets using Apache Spark and Scala.
+### 1. [Hotspot Analysis Using Spark and Scala](https://github.com/aaalmisry/CSE-511.git)  
+- **Description**: A big data project that performs spatial hotspot analysis on large-scale location datasets using Apache Spark and Scala.  
+- **Tech Used**: Apache Spark, Scala, SQL, Hadoop  
 
-Tech Used: Apache Spark, Scala, SQL, Hadoop
 
 ### 2. [Real-time Data Processing with Spark](https://github.com/aaalmisry/project2)
 - **Description**: A real-time stream processing application using Apache Spark for handling big data.
